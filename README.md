@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Pranjal Gulati
-- 👀 I’m interested in Data Science and using it make the world a better place to live...
-- 🌱 I’m currently learning machine learning models, neural networks and deep learning based technologies...
-- 💞️ I’m looking to collaborate on data science projects...
-- 📫 How to reach me? Drop a me a mail: pranjal.carmel@gmail.com...
-
+<a href="https://github.com/DevPranjal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevPranjal&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+</a>
+<a href="https://github.com/DevPranjal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPranjal&layout=compact&theme=gotham" />
+</a>
 <!---
 DevPranjal/DevPranjal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
