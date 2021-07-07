@@ -13,13 +13,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DevPranjal&hide_border=true&theme=tokyonight" width="45%" >
 <br />
 
-## 💻 Languages Used: 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPranjal&show_icons=true&theme=radical" width="42%" >
-</div>
-
-<br/>
 
 <!---
 DevPranjal/DevPranjal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
