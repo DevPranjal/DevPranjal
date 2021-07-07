@@ -1,6 +1,6 @@
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Pranjal Gulati here.</h1>
 
-<h4 align="center">Hey, Pranjal Gulati here. I am currently exploring Artificial Intelligence, and trying to use my knowledge in the beautiful world of Open Source.</h4>
+<h4 align="center">I am currently exploring Artificial Intelligence, and trying to use my knowledge in the beautiful world of Open Source.</h4>
 <br/>
 
 <br/>
