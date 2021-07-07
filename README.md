@@ -6,7 +6,7 @@
 <br/>
 
 
-## 📚 GitHub Stats:
+## GitHub Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=DevPranjal&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 
