@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Pranjal Gulati here.</h1>
 
-<h4 align="center"> Exploring intelligence, artificial and otherwise.</h4>
+<h3 align="center"> Exploring intelligence, artificial and otherwise.</h3>
 <br/>
 
 <br/>
